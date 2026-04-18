@@ -10,5 +10,7 @@ public class Welcome {
         String name = sc.next();
         
    System.out.println("Welcome " + name + " to KG coding");
+
+   sc.close();
     }
 }

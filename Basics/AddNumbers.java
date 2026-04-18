@@ -12,5 +12,6 @@ public class AddNumbers {
     int sum = first + second;
     System.out.println("The sum of this two numbers is: " + sum );
 
+    sc.close();
   }
 }
