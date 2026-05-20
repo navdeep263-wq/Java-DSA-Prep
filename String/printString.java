@@ -1,4 +1,4 @@
-package String;
+
 
 public class printString {
     public static void main(String[] args) {

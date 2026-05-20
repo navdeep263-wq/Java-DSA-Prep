@@ -1,4 +1,3 @@
-package String;
 
 public class printAllCharacter {
    public static void main(String[] args) {
