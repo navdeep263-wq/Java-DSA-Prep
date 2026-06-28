@@ -14,6 +14,6 @@ class printlength{
         System.out.println("Length is : " + name.length());
         System.out.println("first letter : " + name.charAt(0));
         System.out.println("Last letter : " + name.charAt(name.length() - 1));
-
+   sc.close();
     }
 }
