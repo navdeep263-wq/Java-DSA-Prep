@@ -34,5 +34,6 @@ class printlength{
             i--;
         }
         System.out.println(count);
+        sc.close();
     }
 }
