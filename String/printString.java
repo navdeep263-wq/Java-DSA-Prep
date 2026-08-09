@@ -1,8 +1,10 @@
 public class printString {
     public static void main(String[] args) {
-        String str = "Navdeep";
-        
-            System.out.println(str);
+        String str = "Navdeep kaur";
+         System.out.println(str);
+
+}
+
         }
-    }
+    
 
